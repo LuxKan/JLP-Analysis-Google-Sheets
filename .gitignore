@@ -1,0 +1,20 @@
+
+node_modules
+service-account.json
+
+
+# {
+#   "type": "service_account",
+#   "project_id": "outstanding-ion-460711-j1",
+#   "private_key_id": "f614cc418c1a01f5e60e1b1361992c5169833f40",
+#   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5TjGmHxGc3DIV\nrx3pfOUqqC9Uk5NtgYcIrtwsmGn+HfggUTONaADpyTVJp5onJCdpmzxnPhK87rZ6\nAJsGUjCvvT5Liya3RIxRlOboj2wembTKKhl1hNqClJ8KYkXogekJMzJic7AWbr15\n/ro3IXznLVK8PdzsLZsAq4h23cUnzU/VcftVLIN/0pqMCISF0b200/S5OP/HeKFW\nXzxMI+xkJWZpF2phgZqAUFV2norNGCEX2BzC18xjH6ILNXBqRUW58OTICufPxLxt\nZ0f5hueAVNFVDFSViSrw0pGg5GO8Qa9qbprmMyUwEfQ6wju6a5Kb9UZd9nx/62+N\nem+8jvorAgMBAAECggEAJxa0CW9XV0fptsJEZIroiomExmoE+N4QXogIQM372dN3\nklWess8EFkzP1VQqA+Sv/ap14O9qo3kVfAHhscEnrQKV//h/97vZf6IR3W/XplLV\nHKopyaz3LQFt1RJq3cN9pWer0rHFrM26YWAW5udFAj0AzV2dWyK5pjgI5s4cNytP\nQcynfemGP1wCfjU0n2EBDTrxv5Pefdxvt0LMY+ufZD2pfRsANsnA458X36b9+fYu\nXNCN6TnLlh+Cwvy9/ONJkE+kQ9RbVDZmIH5KKWNN0hawaR83iD6m6i0IDHgZYAOP\n4ot2w+8Bi3uHgXY5Q5RriT8Bx42R7DwQ9i6QqATCTQKBgQDvzVfPkC1GEvJEceYi\nknv8Afsr36VVHsFZEfkzeew8Voye/x/9KCqqBvd8dP3mt+dDGEGHCVJQy9pCJ0yw\nGa66ptdjwCpqnPnxOvd1HH7D4rpxSFXGuyWEcGHPPKBcCzxI7HENYdfQxAoPTwvN\nNc5y6DN2Q7ztvMZkbx5mgVxj9QKBgQDF0n6kt7XN8NRp4AfnvYwsML/vG30qif8E\n3ilIqqnFOLbwtom68oJqfY0KUvg6XYALIr7zGIOgDdbHYvXHbFm454q2I/dbDNqo\nQX5NQPuGTJsUMd3m1QGkSGNPrG+ysUWyOmmPyY/rvaWaCOR7PlEM5OvR9l4onLhq\nAjr8FP8xnwKBgQCFEl54QHnfOQRYFxyucrt6zV6kqicFZVvGIcM4XaBKm3zNfqYx\nxehnEhakage70LH0+bDjTrjvPTCRJV3ZG2drDMrZ//mJ0DKjOyW3R2jRKzBrTMjM\nz22yYOrmJa6XZWS+0vaphnJM13z9oc/awNEf0ts79bsR8n/lnAQyvfaXQQKBgQCt\nG17ROyVvmk/2eiHQy5CO1vYOAasM/4bWtqW/vgAj4lZL3CA4JKC1GTrDjwlC4bD7\njaM0zP3ZoGKTRei3Yvw8jvlWG7EHzv7Ef9NLPRMdWYnXKS/6H+l43hNxk/6GixPn\nO7BGL+auLt1sJl3x7v0z4Frv97w7o7DIqzz8fE84FwKBgFqMfHQ8qb1fb3Z2RDUC\n9mj5/lH9qmydATQNSAo8j45dFx5QP3ruThpM6/q2zCs61U77O4CAyhW1eU+waZ0H\nPkOy//AgmJrrMoZDygEyzAnHF4tDw6rym3+ZRByRcQUPLr+So8zgmYdKsX/7DgL3\nqjWid/WAFOtcrqbc6RKcTggH\n-----END PRIVATE KEY-----\n",
+#   "client_email": "jip-505@outstanding-ion-460711-j1.iam.gserviceaccount.com",
+#   "client_id": "111827554536097219560",
+#   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+#   "token_uri": "https://oauth2.googleapis.com/token",
+#   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+#   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jip-505%40outstanding-ion-460711-j1.iam.gserviceaccount.com",
+#   "universe_domain": "googleapis.com",
+  
+#   "google_sheets_id": "1-DLrCIQPorQZzg__ewwS4naAbxhVEC0F0Mhl0xwHNwQ"
+# }
